@@ -1,10 +1,11 @@
-# -작업중-
+![header](https://capsule-render.vercel.app/api?type=soft&color=567ACE&height=20&section=header&text=&fontSize=)
+# --수리중--
 
 
+##### 📫E-MAIL   
+###### Gmail: hu4530@gmail.com
 ---
-#### 📫E-MAIL
-##### Gmail: hu4530@gmail.com
----
+
 
 ## 🔭Education
 Dong-Eui University, Busan, Republic of Korea (2017.03-2024.02)
@@ -35,17 +36,5 @@ Dong-Eui University, Busan, Republic of Korea (2017.03-2024.02)
 
 
 
-<!--
-**happybear98/happybear98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
--  Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
--  Fun fact: ...
--->
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=567ACE&height=120)
