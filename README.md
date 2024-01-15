@@ -5,6 +5,10 @@
 ##### 📫E-MAIL   
 ###### Gmail: hu4530@gmail.com
 ---
+<img alt="static badge" src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visualstudiocode&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=Oracle&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/Quartus Prime-0071C5?style=flat&logo=intel&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/MATLAB-E95429?style=flat&logo=&logoColor=white"/>    
+<img alt="static badge" src="https://img.shields.io/badge/UBUNTU-E95429?style=flat&logo=UBUNTU&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/Raspberry Pi-A22846?style=flat&logo=raspberrypi&logoColor=white"/>    
+<img alt="static badge" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/VHDL-0071C5?style=flat&logo=intel&logoColor=white"/>   
+<img alt="static badge" src="https://img.shields.io/badge/JAVA-000000?style=flat&logo=jetbrains&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=white"/> <img alt="static badge" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
 
 
 ## 🔭Education
@@ -26,8 +30,8 @@ Dong-Eui University, Busan, Republic of Korea (2017.03-2024.02)
 * (2023.12) 2023년 한국정보기술학회 대학생논문경진대회 우수논문상
 * (2023.11) 2023동의대 통합성과경진대회 캡스톤디자인부문 장려상
 
-## Projects
-*
+## 💻 Projects
+* (2022.09-2023.11) ROS/AI-based Autonomous Mobile Robot System
 
 
 ## Additional Information
