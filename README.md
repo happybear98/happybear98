@@ -16,6 +16,7 @@ Dong-Eui University, Busan, Republic of Korea (2017.03-2024.02)
  *  Minor in Computer Engineering
 
 ## ⚡Work Experience 
+* (2024.08-       ) Hyundai Autoever Mobility SW School (Embedded SW 3rd)
 * (2023.01-2024.01) 전자공학과 지능형로봇/제어시스템 연구실 랩장
 * (2023.05-2023.12) 교내 창업동아리 팀 AMR-E (인공지능을 탑재한 자율주행로봇 시스템)
 * (2023.05-2023.08) 미래내일 일경험 프로젝트 팀 AMR-E 팀장
