@@ -16,7 +16,7 @@ Dong-Eui University, Busan, Republic of Korea (2017.03-2024.02)
  *  Major in Electronic Engineering
  *  Minor in Computer Engineering    
 
-### Cources
+### Courses
 * Hyundai Autoever Mobility SW School Embedded SW 3rd (2024.08-2025.02) 
 
 ## ⚡Work Experience 
